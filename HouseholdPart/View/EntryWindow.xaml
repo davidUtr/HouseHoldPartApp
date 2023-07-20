@@ -1,0 +1,25 @@
+﻿<Window x:Class="HouseHoldPart.View.EntryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HouseHoldPart.View"
+        
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Авторизация" Loaded="Window_Loaded" Height="534" Width="510" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen" Icon="/Icon/children.ico">
+   
+    <Grid>
+
+        <Image HorizontalAlignment="Left" Height="127" Margin="167,59,0,0" VerticalAlignment="Top" Width="126"/>
+        <Image HorizontalAlignment="Left" Height="135" Margin="188,24,0,0" VerticalAlignment="Top" Width="144" Source="/Icon/children.png"/>
+        <TextBox Name="LoginText"  HorizontalAlignment="Center" Height="44" Margin="0,241,0,0" TextWrapping="Wrap" materialDesign:HintAssist.Hint="Логин"  VerticalAlignment="Top" Width="348" FontSize="24" />
+        <TextBox Visibility="Hidden"  materialDesign:HintAssist.Hint="Пароль"    x:Name="TextPasswordInput" HorizontalAlignment="Center" Height="47" Margin="0,320,0,0" VerticalAlignment="Top" Width="348" FontSize="24"/>
+        <PasswordBox PasswordChanged="PasswordInput_PasswordChanged" materialDesign:HintAssist.Hint="Пароль"   x:Name="PasswordInput" HorizontalAlignment="Center" Height="48" Margin="0,320,0,0" VerticalAlignment="Top" Width="348" FontSize="24"/>
+
+        <Button x:Name="LoginButton" Click="LoginButton_Click" Content="Войти" HorizontalAlignment="Center" Height="46" Margin="0,425,0,0" VerticalAlignment="Top" Width="161" />
+        <CheckBox Content="Запомнить пароль" x:Name="SavePass" HorizontalAlignment="Left" Height="33" Margin="61,373,0,0" VerticalAlignment="Top" Width="187" FontSize="18" Background="Gray" Foreground="Gray"/>
+        <ToggleButton  HorizontalAlignment="Left" Height="24" x:Name="PasswordCheck" Checked="PasswordCheck_Checked" Unchecked="PasswordCheck_Unchecked" VerticalAlignment="Top" Width="48" Margin="371,332,0,0"/>
+        <Image Cursor="Hand" MouseDown="Image_MouseDown" HorizontalAlignment="Left" Height="33" Margin="351,432,0,0" VerticalAlignment="Top" Width="35" Source="/Icon/helpinfo_104306.png" RenderTransformOrigin="0.432,0.516" Opacity="0.6"/>
+    </Grid>
+</Window>

@@ -1,0 +1,206 @@
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\HouseHoldPart.exe.config
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\HouseHoldPart.exe
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\HouseHoldPart.pdb
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\EntityFramework.dll
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\EntityFramework.SqlServer.dll
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\MaterialDesignColors.dll
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\EntityFramework.xml
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\EntityFramework.SqlServer.xml
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\MaterialDesignColors.pdb
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\ru\EntityFramework.resources.dll
+E:\HouseHoldPart\HouseHoldPart\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.AssemblyReference.cache
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.SuggestedBindingRedirects.cache
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\View\EntryWindow.g.cs
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\App.g.cs
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart_Content.g.cs
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart_MarkupCompile.cache
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart_MarkupCompile.lref
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\View\EntryWindow.baml
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.g.resources
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.Properties.Resources.resources
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.GenerateResource.cache
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.CoreCompileInputs.cache
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.CopyComplete
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.exe
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\HouseHoldPart.pdb
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\App.baml
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\Styles\ButtonStyle.baml
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\View\MainWindow.g.cs
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\View\MainWindow.baml
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\View\Pages\ScheduleEmployeePage.g.cs
+E:\HouseHoldPart\HouseHoldPart\obj\Debug\View\Pages\ScheduleEmployeePage.baml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\HouseHoldPart.exe.config
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\HouseHoldPart.exe
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\HouseHoldPart.pdb
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\EntityFramework.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\EntityFramework.SqlServer.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\MaterialDesignColors.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\EntityFramework.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\EntityFramework.SqlServer.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\MaterialDesignColors.pdb
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\ru\EntityFramework.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.AssemblyReference.cache
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.SuggestedBindingRedirects.cache
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\Styles\ButtonStyle.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EntryWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\MainWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\ScheduleEmployeePage.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\App.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart_Content.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart_MarkupCompile.cache
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart_MarkupCompile.lref
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\App.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EntryWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\MainWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\ScheduleEmployeePage.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.g.resources
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.Properties.Resources.resources
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.GenerateResource.cache
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.CoreCompileInputs.cache
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.csproj.CopyComplete
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.exe
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\HouseHoldPart.pdb
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\EmployeePage.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\EmployeePage.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\ScheduleEmployeeEditWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\ScheduleEmployeeEditWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.MaterialDesign.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.MetroAccent.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Office2007.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Windows10.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.MaterialDesign.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.Metro.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.Office2007.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.Windows10.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.LiveExplorer.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.MaterialDesign.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.Metro.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.Office2007.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.Windows10.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.WMP11.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.MaterialDesign.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.MaterialDesignColors.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.Metro.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.Office2007.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.Windows10.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.MaterialDesign.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.Metro.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.Office2007.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.Windows10.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.MaterialDesign.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.MetroAccent.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Office2007.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Windows10.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.MaterialDesign.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.Metro.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.Office2007.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.DataGrid.Themes.Windows10.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.LiveExplorer.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.MaterialDesign.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.Metro.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.Office2007.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.Windows10.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.ListBox.Themes.WMP11.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.MaterialDesign.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.MaterialDesignColors.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.Metro.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.Office2007.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Themes.Windows10.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.MaterialDesign.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.Metro.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.Office2007.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Xceed.Wpf.Toolkit.Themes.Windows10.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddScheduleEmployeeWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddScheduleEmployeeWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\BotDetect.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\BotDetect.Web.Mvc.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\GoogleRecaptcha.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Newtonsoft.Json.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Recaptcha.Web.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Data.SQLite.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.Helpers.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.Mvc.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.Razor.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.WebPages.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.WebPages.Razor.dll
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\Newtonsoft.Json.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Data.SQLite.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.Helpers.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.Mvc.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.Razor.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.WebPages.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\диск е\HouseholdPart\HouseHoldPart\bin\Debug\System.Web.WebPages.Razor.xml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddEmployee.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddEmployee.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\DocumentWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditEmployeeWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\DocumentWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditEmployeeWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddDocumentWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddDocumentWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditDocumentWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditDocumentWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\EquipmentPage.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\EquipmentPage.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddEquipmentWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddEquipmentWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddFacilitiesWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddFacilitiesWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditEquipmentWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditFacilities.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\SuppliersPage.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditEquipmentWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditFacilities.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\SuppliersPage.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddSuppliersWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditSuppliersWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\AddWindow\AddSuppliersWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\EditWindow\EditSuppliersWindow.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\FacilitiesPage.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\Pages\FacilitiesPage.baml
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\SupportWindow.g.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\View\SupportWindow.baml

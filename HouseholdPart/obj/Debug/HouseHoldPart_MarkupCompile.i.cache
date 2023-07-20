@@ -1,0 +1,20 @@
+﻿HouseHoldPart
+
+
+winexe
+C#
+.cs
+D:\диск е\HouseholdPart\HouseHoldPart\obj\Debug\
+HouseHoldPart
+none
+false
+DEBUG;TRACE
+D:\диск е\HouseholdPart\HouseHoldPart\App.xaml
+22-2100501935
+2-1741660701
+45-1608196232
+671264487062
+Styles\ButtonStyle.xaml;View\AddWindow\AddDocumentWindow.xaml;View\AddWindow\AddEmployee.xaml;View\AddWindow\AddEquipmentWindow.xaml;View\AddWindow\AddFacilitiesWindow.xaml;View\AddWindow\AddScheduleEmployeeWindow.xaml;View\AddWindow\AddSuppliersWindow.xaml;View\DocumentWindow.xaml;View\EditWindow\EditDocumentWindow.xaml;View\EditWindow\EditEmployeeWindow.xaml;View\EditWindow\EditEquipmentWindow.xaml;View\EditWindow\EditFacilities.xaml;View\EditWindow\EditSuppliersWindow.xaml;View\EditWindow\ScheduleEmployeeEditWindow.xaml;View\EntryWindow.xaml;View\MainWindow.xaml;View\Pages\EmployeePage.xaml;View\Pages\EquipmentPage.xaml;View\Pages\FacilitiesPage.xaml;View\Pages\ScheduleEmployeePage.xaml;View\Pages\SuppliersPage.xaml;View\SupportWindow.xaml;
+icon\831502.png
+True
+

@@ -1,0 +1,38 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HouseHoldPart.View.AddWindow"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="HouseHoldPart.View.AddWindow.AddEmployee"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Добавить сотрудника" Height="450" Width="534" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+
+
+        <ComboBox HorizontalAlignment="Center" x:Name="PostCB" SelectedValuePath="PostId" SelectedValue="{Binding IdPost}" Height="34" Margin="0,285,0,0" VerticalAlignment="Top" Width="191" FontSize="16">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding PostName}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        <TextBox materialDesign:HintAssist.Hint="Серия паспорта" x:Name="Serial" Text="{Binding SerialPasportEmployee}" HorizontalAlignment="Left" Height="33" Margin="50,136,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"/>
+        <TextBox materialDesign:HintAssist.Hint="Номер паспорта" x:Name="Number" Text="{Binding NumberPasportEmployee}" HorizontalAlignment="Left" Height="33" Margin="286,130,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"/>
+        <xctk:MaskedTextBox Mask="+9(999) 999 99 99"  Text="{Binding Contact}" x:Name="NumberPhone" materialDesign:HintAssist.Hint="Номер телефона" HorizontalAlignment="Left" Height="33" Margin="50,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"/>
+        <TextBox materialDesign:HintAssist.Hint="Адрес" Text="{Binding Address}" x:Name="Address" HorizontalAlignment="Left" Height="33" Margin="286,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210" FontSize="16"/>
+        <TextBox materialDesign:HintAssist.Hint="Имя сотрудника" x:Name="Name" Text="{Binding NameEmployee}" HorizontalAlignment="Left" Height="33" Margin="50,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"/>
+        <TextBox materialDesign:HintAssist.Hint="Фамилия сотрудника" x:Name="Surname" Text="{Binding SurnameEmployee}" HorizontalAlignment="Left" Height="33" Margin="286,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"/>
+        <Button x:Name="SaveButton" Click="SaveButton_Click" Content="Сохранить" HorizontalAlignment="Center" Height="40" Margin="0,352,0,0" VerticalAlignment="Top" Width="140"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="50,22,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16" Text="Имя сотрудника:"/>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="286,17,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"><Run Language="ru-ru" Text="Фамилия"/><Run Text=" сотрудника:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="50,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"><Run Language="ru-ru" Text="Серия паспорта"/><Run Text=":"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="286,106,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"><Run Language="ru-ru" Text="Номер паспорта"/><Run Text=":"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="50,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"><Run Language="ru-ru" Text="Номер телефона"/><Run Text=":"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="25" Margin="286,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" FontSize="16"><Run Language="ru-ru" Text="Адрес"/><Run Text=":"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" Height="25" Margin="0,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="93" FontSize="16"><Run Language="ru-ru" Text="Должность"/><Run Text=":"/></TextBlock>
+    </Grid>
+</Window>

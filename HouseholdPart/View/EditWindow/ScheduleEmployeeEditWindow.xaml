@@ -1,0 +1,44 @@
+﻿<Window x:Class="HouseHoldPart.View.EditWindow.ScheduleEmployeeEditWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HouseHoldPart.View.EditWindow"
+        mc:Ignorable="d"
+        Language="ru-RU"
+        xmlns:locals="clr-namespace:HouseHoldPart.Model"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Редактирование расписания" Height="516" Width="392" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <locals:TimeSpanToStringConverter x:Key="TimeSpanToStringConverter"/>
+    </Window.Resources>
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" Margin="5,120,0,0" Orientation="Vertical" VerticalAlignment="Top" Height="225">
+            <TextBlock Height="31" TextWrapping="Wrap" Width="103" FontSize="14"><Run Text="Дата"/><Run Language="ru-ru" Text=" и время"/></TextBlock>
+           
+
+                <DatePicker x:Name="Date" materialDesign:HintAssist.Hint="Дата" SelectedDate="{Binding Date, Mode=TwoWay}" Height="41" Width="110" FontSize="14"/>
+            <StackPanel Orientation="Horizontal" Width="160">   
+            <xctk:MaskedTextBox Margin="15" Mask="00:00" Text="{Binding TimeStart, Converter={StaticResource TimeSpanToStringConverter}}" Height="26" TextWrapping="Wrap" x:Name="TimeText" materialDesign:HintAssist.Hint="Время (час,мин,сек)" Width="40" FontSize="14"/>
+                <TextBlock Text=" - " Height="38" FontSize="24"/>
+                <xctk:MaskedTextBox Margin="15" Mask="00:00" Text="{Binding TimeEnd, Converter={StaticResource TimeSpanToStringConverter}}" Height="26" TextWrapping="Wrap" x:Name="TimeEndText" materialDesign:HintAssist.Hint="Время (час,мин,сек)" Width="40" FontSize="14"/>
+            </StackPanel>
+            <TextBlock Height="31" TextWrapping="Wrap" Text="Фамилия и имя сотрудника" Width="186" FontSize="14"/>
+            <ComboBox x:Name="EmployeeName" materialDesign:HintAssist.Hint="Фамилия и имя"   SelectedValuePath="EmployeeId" SelectedValue="{Binding IdEmployee}" Height="32" Width="174" FontSize="14">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding NameEmployee}"/>
+                            <TextBlock Text=" "/>
+                            <TextBlock Text="{Binding SurnameEmployee}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+        </StackPanel>
+        <TextBlock HorizontalAlignment="Center" Height="79" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="0,19,0,0" FontSize="28" FontWeight="Bold" TextAlignment="Center"><Run Language="ru-ru" Text="Редактор расписания"/></TextBlock>
+        <Button Content="Сохранить" x:Name="SaveButton" Click="SaveButton_Click" HorizontalAlignment="Left" Height="42" Margin="116,406,0,0" VerticalAlignment="Top" Width="166"/>
+
+    </Grid>
+</Window>

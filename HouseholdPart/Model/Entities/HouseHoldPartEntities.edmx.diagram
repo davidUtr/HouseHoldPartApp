@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="cd16a08ca3aa4b06b22bdf18af60fc5f" Name="Diagram1">
+        <EntityTypeShape EntityType="HouseholdPartModel.DocumentEmployee" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.Employee" Width="1.5" PointX="3" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.Equipment" Width="1.5" PointX="3" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.Facilities" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.Post" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.ScheduleEmployee" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.Suppliers" Width="1.5" PointX="0.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.sysdiagrams" Width="1.5" PointX="5.75" PointY="6.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HouseholdPartModel.User" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <AssociationConnector Association="HouseholdPartModel.FK_DocumentEmployee_Employee" ManuallyRouted="false" />
+        <AssociationConnector Association="HouseholdPartModel.FK__Employee__IdPost__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="HouseholdPartModel.FK__ScheduleE__IdEmp__2B3F6F97" ManuallyRouted="false" />
+        <AssociationConnector Association="HouseholdPartModel.FK__Equipment__IdFac__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="HouseholdPartModel.FK_Equipment_Suppliers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

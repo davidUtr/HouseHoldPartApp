@@ -1,0 +1,16 @@
+﻿<Window x:Class="HouseHoldPart.View.SupportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HouseHoldPart.View"
+        mc:Ignorable="d"
+        Title="SupportWindow" Height="608" Width="1000" ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Height="51" Margin="563,423,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="399" FontSize="16"><Run Language="ru-ru" Text="Программа была создана студенткой ИС-43"/><LineBreak/><Run Language="ru-ru" Text="Гелашвили Дарьей Романовной"/></TextBlock>
+        <TextBlock HorizontalAlignment="Center" Height="66" Margin="0,10,0,0" TextWrapping="Wrap" Text="House Hold Part" VerticalAlignment="Top" Width="280" FontSize="36" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="318" Margin="399,81,0,0" VerticalAlignment="Top" Width="518" Source="/Icon/Снимок экрана 2023-06-22 171619.png" Stretch="Fill"/>
+        <TextBlock HorizontalAlignment="Left" Height="473" Margin="10,64,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="384" FontSize="16"><Run Language="ru-ru" Text="Программа была создана специально для заведующего хозяйственной деятельностью МБДОУ №38 город Майкоп. "/><LineBreak/><Run Language="ru-ru" Text="Программа проста в использовании и интуитивно понятна, благодаря чему, в ней не сложно разобраться"/><LineBreak/><Run Language="ru-ru"/><LineBreak/><Run Language="ru-ru" Text="Краткая инструкция использования программы"/><Run Text=":"/><LineBreak/><Run Language="ru-ru" Text="1. После успешной авторизации пользователь увидит главное окно, в котором можно перейти на страницы с информацией о &quot;Расписании сотрудников&quot;, &quot;Сотрудники&quot;, &quot;Материалы&quot;, &quot;Поставщики&quot;, &quot;Помещения. "/><LineBreak/><Run Language="ru-ru" Text="2. Чтобы удалить или редактировать какую-то запись, пользователь должен кликнуть по ней правой кнопкой мыши и выбрать нужный ему вариант"/><LineBreak/><Run Language="ru-ru" Text="3. Во вкладке &quot;Сотрудники&quot; можно попасть на страницу с информацией о документах сотрудника, пользователь может их просматривать, изменять и так далее."/></TextBlock>
+
+    </Grid>
+</Window>
